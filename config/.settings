@@ -1,0 +1,19 @@
+{
+    "projectName": "testing",
+    "username": "leo.hotmail1@gmail.com",
+    "id": "74423130-9983-11e7-9317-2b955fe7ca13",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://eu11.salesforce.com",
+    "workspace": "C:\\Users\\Encripto\\Documents\\mavensmate",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "AuraDefinitionBundle",
+        "AuthProvider",
+        "StaticResource"
+    ]
+}

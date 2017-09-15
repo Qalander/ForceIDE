@@ -1,0 +1,11 @@
+<apex:page showHeader="true" sidebar="true">
+	<apex:form>
+        <apex:pageblock>
+            <apex:pageblocksection>
+                <apex:pageblocksectionitem>
+                    
+                </apex:pageblocksectionitem>
+            </apex:pageblocksection>
+        </apex:pageblock>
+    </apex:form>
+</apex:page>
